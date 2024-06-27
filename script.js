@@ -26,6 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
             font-size: 24px;
             top: 0;
             animation: fall 5s linear infinite;
+            color: #005ca9;
         }
 
         @keyframes fall {
